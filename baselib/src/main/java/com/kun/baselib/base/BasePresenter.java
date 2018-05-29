@@ -1,8 +1,7 @@
 package com.kun.baselib.base;
 
 /**
- * @author kun
- * @date 2017/11/14
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class BasePresenter<V extends BaseActivityView> {

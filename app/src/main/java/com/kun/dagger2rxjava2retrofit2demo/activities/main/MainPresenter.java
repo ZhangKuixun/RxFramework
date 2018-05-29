@@ -10,8 +10,7 @@ import com.kun.dagger2rxjava2retrofit2demo.net.AppNetApi;
 import javax.inject.Inject;
 
 /**
- * @author kun
- * @date 2017/10/24
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class MainPresenter extends BasePresenter<MainContract.View> implements MainContract.Present {

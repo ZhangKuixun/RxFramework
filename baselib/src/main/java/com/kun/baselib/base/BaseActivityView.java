@@ -4,7 +4,7 @@ import com.trello.rxlifecycle2.LifecycleProvider;
 import com.trello.rxlifecycle2.android.ActivityEvent;
 
 /**
- * Created by lirongkun on 2017/3/8
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public interface BaseActivityView {

@@ -6,7 +6,7 @@ import android.widget.Toast;
 import com.kun.baselib.base.BaseApplication;
 
 /**
- * Created by kun on 2015/12/6
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 public class ToastUtil {
     private static long lastClickTime = 0;

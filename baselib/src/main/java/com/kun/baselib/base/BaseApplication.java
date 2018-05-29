@@ -8,7 +8,7 @@ import com.kun.baselib.dagger.AppModule;
 import com.kun.baselib.dagger.DaggerAppComponent;
 
 /**
- * Created by lirongkun on 2017/3/19
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class BaseApplication extends Application {

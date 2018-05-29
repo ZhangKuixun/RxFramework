@@ -1,7 +1,7 @@
 package com.kun.baselib.base;
 
 /**
- * Created by kun on 2017/8/17.
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class BaseDataCache {

@@ -7,8 +7,7 @@ import com.kun.dagger2rxjava2retrofit2demo.activities.main.MainActivity;
 import dagger.Component;
 
 /**
- * @author 坤
- * @date 2017/12/7
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 @PerActivity

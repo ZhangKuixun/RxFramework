@@ -3,7 +3,7 @@ package com.kun.dagger2rxjava2retrofit2demo;
 import com.kun.baselib.base.BaseApplication;
 
 /**
- * Created by 坤 on 2017/8/17
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class MyApplication extends BaseApplication {

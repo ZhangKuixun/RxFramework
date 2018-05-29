@@ -4,7 +4,7 @@ package com.kun.baselib.base;
 import com.google.gson.annotations.Expose;
 
 /**
- * Created by kun on 16/10/17
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 public class BaseResponse<T> {
 

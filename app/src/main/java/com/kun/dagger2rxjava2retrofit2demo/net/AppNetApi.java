@@ -8,7 +8,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 /**
- * Created by kun on 2017/8/14.
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public interface AppNetApi {

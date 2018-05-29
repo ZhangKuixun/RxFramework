@@ -3,7 +3,7 @@ package com.kun.dagger2rxjava2retrofit2demo.bean;
 import java.util.List;
 
 /**
- * Created by 坤 on 2017/8/17.
+ * Created by ${KevinZhang} on 2018/5/29.
  */
 
 public class WeatherResponse {
