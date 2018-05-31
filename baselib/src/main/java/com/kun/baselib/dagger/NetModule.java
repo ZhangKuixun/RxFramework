@@ -60,7 +60,7 @@ public class NetModule {
         return new OkHttpClient.Builder().cache(cache).addInterceptor(getLoggingInterceptor());
     }
 
-    //截取网络访问信息，打印retrofit日志
+    //截取网络访问信息，打印日志
     private static HttpLoggingInterceptor getLoggingInterceptor() {
         HttpLoggingInterceptor loggingInterceptor = new HttpLoggingInterceptor(new HttpLoggingInterceptor.Logger() {
             @Override
